@@ -1,0 +1,63 @@
+{
+  "ranAt": "2026-09-21T04:16:22.534Z",
+  "rules": true,
+  "movetime": 100,
+  "results": [
+    {
+      "skill": 0,
+      "label": "skill 0",
+      "games": 6,
+      "score": 0,
+      "pct": 0,
+      "voided": 0,
+      "detail": [
+        {
+          "score": 0,
+          "plies": 62,
+          "reason": "checkmate",
+          "jevColor": "w",
+          "seconds": 18
+        },
+        {
+          "score": 0,
+          "plies": 59,
+          "reason": "checkmate",
+          "jevColor": "b",
+          "seconds": 17
+        },
+        {
+          "score": 0,
+          "plies": 66,
+          "reason": "checkmate",
+          "jevColor": "w",
+          "seconds": 17
+        },
+        {
+          "score": 0,
+          "plies": 35,
+          "reason": "checkmate",
+          "jevColor": "b",
+          "seconds": 10
+        },
+        {
+          "score": 0,
+          "plies": 68,
+          "reason": "checkmate",
+          "jevColor": "w",
+          "seconds": 18
+        },
+        {
+          "score": 0,
+          "plies": 93,
+          "reason": "checkmate",
+          "jevColor": "b",
+          "seconds": 25
+        }
+      ]
+    }
+  ],
+  "fit": {
+    "elo": null,
+    "note": "no calibrated (UCI_Elo) rungs were played"
+  }
+}
